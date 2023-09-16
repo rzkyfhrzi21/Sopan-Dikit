@@ -1,5 +1,7 @@
 # SopanDikit: Dibangun dengan ViteJs
 
+SC : https://github.com/Taufik-H/sopandikit
+
 ![SopanDikit Preview](https://raw.githubusercontent.com/Taufik-H/sopandikit/main/src/assets/ss.png)
 
 **SopanDikit** merupakan platform digital yang dirancang khusus bagi mereka yang kadang merasa kesulitan atau malas dalam mengetik pesan izin kepada guru atau dosen. Dengan antarmuka yang sederhana, pengguna dapat dengan cepat membuat pesan izin yang sopan.
